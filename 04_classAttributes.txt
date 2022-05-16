@@ -1,0 +1,9 @@
+A class attribute is an attribute that belongs to the 
+classes rather than the objects 
+
+Eg of the class atribute is: 
+class Employee(): 
+    company = "google"
+arjit = Employee()
+print(arjit.company) #prints Google 
+Employee.company = "Youtube" #changing the class attribute            

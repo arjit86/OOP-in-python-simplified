@@ -1,0 +1,13 @@
+>>An instance attributes is an attribute that belongs to an 
+instance(object)
+
+
+>>Example of adding an instance attribute is : 
+arjit.salary = "10 k" 
+arjit.age = 22 
+
+Note : Instance attribute takes preference over 
+class attributes during the assignment and retrivel
+
+arjit attributes >> 1) Is attributes present in the object? 
+                    2) Is attributes present in the classses?

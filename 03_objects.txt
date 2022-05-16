@@ -1,0 +1,9 @@
+>An object is the instanation of a class
+When the class is defined a templates is defiined 
+Memory is allocated only after object allocation
+
+Objects of a given class can inoke the methods available to it 
+without revealing the implementation details to the user
+
+Example of object is like if u wont fill the form the form wont 
+be defined

@@ -1,0 +1,15 @@
+class : A class is a blueprint or design for creating the objects 
+
+Eg in a mobile phone 
+   >>designs are  classes
+   >>train form which arent filled up
+
+Its also like the templates 
+
+A class is written in Pascalcase ie. Employee , Arjit 
+1st letter is always capital
+
+The syntax of class looks like : 
+class Employee(): 
+        #methods and variables 
+

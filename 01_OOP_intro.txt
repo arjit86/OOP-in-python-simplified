@@ -1,0 +1,19 @@
+>>What is object oriented programming ? 
+
+
+>An object oriented programming is the way of solviing the given
+ problems by using objects and classes 
+
+
+>It works in  the DRY principle (Don't repeat yourself)
+
+Note : 
+>Arguments : Arguments are the values that are passed when the functions 
+ are called 
+
+>paramters : Parameters are the named variables passed in a function
+
+>>Modelling a problem in OOPs
+Name >> Class >>Employee
+Adjective >>Attributes>>name ,age ,salary
+verbs>>Methods>>getSalary(),increment()

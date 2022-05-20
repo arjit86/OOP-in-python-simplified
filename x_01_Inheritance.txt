@@ -1,0 +1,14 @@
+>>What is inheritance ?
+  >Inheritance is the way of making the new class from the existing class 
+
+  Syntax : 
+  class Employee ():  #base class
+        #code
+
+  class Programmer (Employee): #derived or base class
+        #code   
+
+>>Here we can use the methods and attribute of the Emoployee class in
+  the programmer object 
+
+>>Also we can add or overwrite the new attributes in the Programmer class

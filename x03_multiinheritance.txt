@@ -1,0 +1,7 @@
+A Multiinheritance occurs only if the when the child class inherits from  the 
+more than one parent classes 
+
+Parent class 1                   Parent class 2
+       :                              :
+       :                              :
+       :..........child...............:

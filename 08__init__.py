@@ -7,6 +7,8 @@ Example is given below:
 """
 class Employee (): 
     def __init__ (self): 
-        print ("arjit")
+        print ("Hello Sir")
 
 arjit = Employee()
+#IT prints arjit withoout calling thee function
+

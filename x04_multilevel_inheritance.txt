@@ -1,0 +1,12 @@
+>Multilevel inheritance is defined when the class becomes a parent 
+for another child class 
+
+PARENT 
+  :
+  :
+  :
+CHILD 1 
+  :
+  :
+  :
+  CHILD 2
